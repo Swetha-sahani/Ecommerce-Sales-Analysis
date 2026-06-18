@@ -26,6 +26,16 @@ Sample Superstore Dataset (9,994 records)
 - Tables were the biggest loss-making product.
 - Higher discounts negatively impacted profitability.
 
+- ## Key Results
+
+- Total Sales: $2.29M
+- Total Profit: $286K
+- Total Quantity Sold: 37,873
+- Highest Sales Category: Technology
+- Highest Profit Category: Technology
+- Top State by Sales: California
+- Biggest Loss-Making Product: Tables
+
 ## Files
 
 - Ecommerce_Sales_Analysis.ipynb
